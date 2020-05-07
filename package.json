@@ -1,0 +1,23 @@
+{
+  "name": "mud",
+  "version": "1.0.0",
+  "description": "(multi user dangeon)",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabriel-Barbosa-de-Oliveira/ecma-script-6.git"
+  },
+  "author": "Gabriel Barbosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabriel-Barbosa-de-Oliveira/ecma-script-6/issues"
+  },
+  "homepage": "https://github.com/Gabriel-Barbosa-de-Oliveira/ecma-script-6#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
